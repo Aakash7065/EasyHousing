@@ -1,0 +1,2 @@
+# EasyHousing
+Sample Django Project
